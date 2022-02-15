@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Parra;Paula;;;
-FN:Paula Parra
+N:Bracht;Juan;;;
+FN:Juan Bracht
 ORG: Fresenius Kabi Colombia;
-TITLE:Gerente Asuntos Regulatorios
-EMAIL;type=INTERNET;type=WORK;type=pref:paula.parra@fresenius-kabi.com
-TEL;type=WORK;type=VOICE:+573166909641
+TITLE:Gerente Legal y de Compliance
+EMAIL;type=INTERNET;type=WORK;type=pref:juan.bracht@fresenius-kabi.com
+TEL;type=WORK;type=VOICE:+573106134678
 item1.ADR;type=WORK;type=pref:;;Avenida Carrera 7 # 155c - 20\nPiso 40\, Bogotá;Colombia
 item1.X-ABADR:sg
 item2.URL;type=pref:www.fresenius-kabi.com/co
